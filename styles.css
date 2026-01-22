@@ -1,0 +1,29 @@
+#title {
+    color: blue;
+    display: flex;
+    justify-content: center;
+ }
+
+ p {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(239, 85, 8);
+    line-height: 1.5;
+    margin: 10px 0;
+ }
+
+ #dd {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px; 
+ }
+   #Btn {
+         padding: 10px 20px;
+         font-size: 16px;
+         background-color: green;
+         color: white;
+         border: none;
+         border-radius: 5px;
+         cursor: pointer;
+   }
