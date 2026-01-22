@@ -11,6 +11,7 @@
 אתחלתי אותו עם - git init
 יצרתי ענף ראשי - main branch
 אליו הכנסתי את המסמכים כולל את מסמך ה - README
+
 git add ...
 git push origin ..
 
